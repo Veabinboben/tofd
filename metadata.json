@@ -3,10 +3,10 @@
   "symbol": "VBA",
   "description": "Cool token",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/Veabinboben/tofd/blob/main/BLIINDAAA.png",
+  "image": "https://github.com/Veabinboben/tofd/blob/main/BLIINDAAA.png?raw=true",
   "attributes": [],
   "properties": {
-    "files": [{"uri":"https://github.com/Veabinboben/tofd/blob/main/BLIINDAAA.png","type":"image/png"}],
+    "files": [{"uri":"https://github.com/Veabinboben/tofd/blob/main/BLIINDAAA.png?raw=true","type":"image/png"}],
     "category":"image"
   }
 }
