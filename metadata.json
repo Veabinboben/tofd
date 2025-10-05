@@ -1,0 +1,12 @@
+{
+  "name": "Veaba",
+  "symbol": "VBA",
+  "description": "Cool token",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/your-image-hash-or-http-url.png",
+  "attributes": [],
+  "properties": {
+    "files": [{"uri":"https://arweave.net/your-image-hash-or-http-url.png","type":"image/png"}],
+    "category":"image"
+  }
+}
